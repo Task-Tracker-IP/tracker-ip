@@ -75,9 +75,9 @@
 
 #### Дизайн и интерфейс
 
-![1](imgs/1.png)
-![2](imgs/2.png)
-![3](imgs/3.png)
-![4](imgs/4.png)
-![5](imgs/5.png)
-![6](imgs/6.png)
+![1](profile/imgs/1.png)
+![2](profile/imgs/2.png)
+![3](profile/imgs/3.png)
+![4](profile/imgs/4.png)
+![5](profile/imgs/5.png)
+![6](profile/imgs/6.png)
